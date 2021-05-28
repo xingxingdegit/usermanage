@@ -1,0 +1,3 @@
+requests
+alibabacloud_tea_openapi
+alibabacloud_ims20190815==1.0.1
